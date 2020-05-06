@@ -1,0 +1,6 @@
+sympy
+numpy
+scipy
+colorama
+termcolor
+matplotlib
