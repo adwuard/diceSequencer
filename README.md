@@ -23,12 +23,12 @@ then `python3 diceDetect.py` to run
 Main dependencies are python-rtmidi and cv2
 
 
-## Stuff sill need to all
+## Stuff sill need to add
 - Note quantization
 - Better Dice face detection
 - More featured sequencer
-- Alternative modes
-- Dice face affecting certain parameters (undecided)
+- Alternative sequencing modes
+- Dice face affecting certain parameters (undecided- maybe gate length or jumping effect)
 
 
 
